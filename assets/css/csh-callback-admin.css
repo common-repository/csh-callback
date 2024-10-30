@@ -1,0 +1,29 @@
+.callback-wrap tr th{
+	border-bottom: 1px solid #d7d7d7;
+	box-shadow: 
+        inset 0px 11px 8px -10px #CCC,
+        inset 0px -11px 8px -10px #CCC;
+}
+
+.cshcb-action-icon i{
+	line-height: 2em;
+	margin-right: 15px;
+}
+
+.cshcb-action-icon .cshcb-not-call{
+	color: #ff0000;
+	cursor: pointer;
+	font-size: 1.2em;
+}
+
+.cshcb-action-icon .cshcb-called{
+	color: #6262e0;
+	cursor: pointer;
+	font-size: 1.2em;
+}
+
+.cshcb-action-icon .cshcb-trash{
+	font-size: 1em;
+	color: #5d5e61;
+	cursor: pointer;
+}

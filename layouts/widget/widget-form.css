@@ -1,0 +1,8 @@
+.wrap-success-alert .alert_widget_success{
+	background: #c55c3b ;
+    color: #f1f1f1 ;
+    font-style: italic ;
+    border: none;
+    display: none;
+    text-align: center;
+}

@@ -1,0 +1,21 @@
+.cshcb-open-modal{
+	text-transform: uppercase;
+	background-color: #6b5692;
+}
+
+.cshcb-open-modal img{
+	width: 60px;
+	height: 60px;
+	border-radius: 60px;
+	margin-right: 30px;
+}
+
+.wrap-success-alert .alert_shortcode_success{
+	background: #c55c3b ;
+    color: #f1f1f1 ;
+    font-style: italic ;
+    border: none;
+    text-align: center;
+    max-width: 300px;
+    overflow: hidden;
+}

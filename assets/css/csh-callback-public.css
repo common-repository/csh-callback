@@ -1,0 +1,62 @@
+body{
+	overflow-x: hidden;
+}
+
+.cshcb-modal-header{
+	text-align: center;
+}
+
+.cshcb-modal-header .modal-title{
+	font-size: 2em;
+	text-transform: uppercase;
+}
+
+.cshcb-widget-header{
+	text-align: center;
+}
+
+.cshcb-widget-header .widget-title{
+	font-size: 1.5em;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.cshcb-content{
+	padding: 30px;
+	background-color: #6b5692;
+	color: #fff;
+}
+
+.cshcb-form .alert_status {
+    background: #c55c3b !important;
+    color: #f1f1f1 !important;
+    font-style: italic !important;
+    border: none;
+    display: none;
+}
+
+.cshcb-loading-wrap{
+	display: inline-block;
+	vertical-align: middle;
+    line-height: 1em;
+    margin-left: 10px;
+}
+
+.cshcb-loading-wrap .cshcb-loading{
+	font-size:2em;
+	color:#ccc; 
+	display: none;
+}
+
+.cshcb-form .submit{
+	display: inline-block;
+}
+
+.cshcb-form .submit .cshcb-submit{
+	display: inline-block;
+	background: #fff;
+    color: #000;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
